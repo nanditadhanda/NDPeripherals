@@ -1,0 +1,397 @@
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\NDPeripheralsInventory.exe.config
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\NDPeripheralsInventory.exe
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\NDPeripheralsInventory.pdb
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\obj\Debug\NDPeripheralsInventory.Login.resources
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\obj\Debug\NDPeripheralsInventory.Properties.Resources.resources
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\obj\Debug\NDPeripheralsInventory.csproj.GenerateResource.cache
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\obj\Debug\NDPeripheralsInventory.csproj.CoreCompileInputs.cache
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\obj\Debug\NDPeripheralsInventory.exe
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\obj\Debug\NDPeripheralsInventory.pdb
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\obj\Debug\NDPeripheralsInventory.csprojAssemblyReference.cache
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\inventorydb.mdf
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\inventorydb_log.ldf
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\obj\Debug\NDPeripheralsInventory.inventory.resources
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\EnvDTE.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\stdole.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\obj\Debug\NDPeripheralsInventory.csproj.CopyComplete
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\obj\Debug\NDPeripheralsInventory.mainSystem.resources
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\obj\Debug\NDPeripheralsInventory.Report_Inventory.resources
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\obj\Debug\NDPeripheralsInventory.salesReport.resources
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\obj\Debug\RdlCompile.cache
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\obj\Debug\RdlCompile.compiled
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory\NDPeripheralsInventory\obj\Debug\NDPeripheralsInventory.Report_Sales.resources
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\inventorydb.mdf
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\inventorydb_log.ldf
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\NDPeripheralsInventory.exe.config
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\NDPeripheralsInventory.exe
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\NDPeripheralsInventory.pdb
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\EnvDTE.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\stdole.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\obj\Debug\NDPeripheralsInventory.csprojAssemblyReference.cache
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\obj\Debug\NDPeripheralsInventory.Login.resources
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\obj\Debug\NDPeripheralsInventory.mainSystem.resources
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\obj\Debug\NDPeripheralsInventory.Properties.Resources.resources
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\obj\Debug\NDPeripheralsInventory.Report_Inventory.resources
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\obj\Debug\NDPeripheralsInventory.Report_Sales.resources
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\obj\Debug\NDPeripheralsInventory.salesReport.resources
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\obj\Debug\NDPeripheralsInventory.csproj.GenerateResource.cache
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\obj\Debug\RdlCompile.cache
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\obj\Debug\RdlCompile.compiled
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\obj\Debug\NDPeripheralsInventory.csproj.CoreCompileInputs.cache
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\obj\Debug\NDPeripheralsInventory.csproj.CopyComplete
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\obj\Debug\NDPeripheralsInventory.exe
+C:\Users\Forge-15\source\repos\NDPeripheralsInventory - Copy\NDPeripheralsInventory\obj\Debug\NDPeripheralsInventory.pdb
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\inventorydb.mdf
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\inventorydb_log.ldf
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\NDPeripheralsInventory.exe.config
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\NDPeripheralsInventory.exe
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\NDPeripheralsInventory.pdb
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\Microsoft.ReportViewer.Common.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\Microsoft.ReportViewer.Design.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\Microsoft.SqlServer.Types.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\EnvDTE.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\stdole.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\Microsoft.MSXML.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\obj\Debug\NDPeripheralsInventory.csprojAssemblyReference.cache
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\obj\Debug\NDPeripheralsInventory.Login.resources
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\obj\Debug\NDPeripheralsInventory.mainSystem.resources
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\obj\Debug\NDPeripheralsInventory.Properties.Resources.resources
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\obj\Debug\NDPeripheralsInventory.Report_Inventory.resources
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\obj\Debug\NDPeripheralsInventory.Report_Sales.resources
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\obj\Debug\NDPeripheralsInventory.salesReport.resources
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\obj\Debug\NDPeripheralsInventory.csproj.GenerateResource.cache
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\obj\Debug\RdlCompile.cache
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\obj\Debug\RdlCompile.compiled
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\obj\Debug\NDPeripheralsInventory.csproj.CoreCompileInputs.cache
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\obj\Debug\NDPeripheralsInventory.csproj.CopyComplete
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\obj\Debug\NDPeripheralsInventory.exe
+N:\Academic\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\obj\Debug\NDPeripheralsInventory.pdb
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\inventorydb.mdf
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\inventorydb_log.ldf
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\NDPeripheralsInventory.exe.config
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\NDPeripheralsInventory.exe
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\NDPeripheralsInventory.pdb
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\Microsoft.ReportViewer.Common.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\Microsoft.ReportViewer.Design.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\Microsoft.SqlServer.Types.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\EnvDTE.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\stdole.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\Microsoft.MSXML.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\obj\Debug\NDPeripheralsInventory.csprojAssemblyReference.cache
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\obj\Debug\NDPeripheralsInventory.Login.resources
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\obj\Debug\NDPeripheralsInventory.mainSystem.resources
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\obj\Debug\NDPeripheralsInventory.Properties.Resources.resources
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\obj\Debug\NDPeripheralsInventory.Report_Inventory.resources
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\obj\Debug\NDPeripheralsInventory.Report_Sales.resources
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\obj\Debug\NDPeripheralsInventory.salesReport.resources
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\obj\Debug\NDPeripheralsInventory.csproj.GenerateResource.cache
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\obj\Debug\RdlCompile.cache
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\obj\Debug\RdlCompile.compiled
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\obj\Debug\NDPeripheralsInventory.csproj.CoreCompileInputs.cache
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\obj\Debug\NDPeripheralsInventory.csproj.CopyComplete
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\obj\Debug\NDPeripheralsInventory.exe
+N:\Academic\Completed\C# (Windows Programming)\Nandita Dhanda - SUKD1702275\NDPeripheralsInventory\NDPeripheralsInventory\obj\Debug\NDPeripheralsInventory.pdb
